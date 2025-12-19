@@ -1,0 +1,18 @@
+body {
+    background: #f8bcd9;
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* Heading styles */
+.heading {
+    background: #f3d6f7;
+    border-bottom: 2px solid #6eb1c7;
+    border-top: 2px solid #6eb1c7;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    margin: 0 auto 30px auto;
+    width: 100%;
+    box-sizing: border-box;
+}
